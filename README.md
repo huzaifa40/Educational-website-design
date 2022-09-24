@@ -1,2 +1,2 @@
-# Practiceprojects
-This repository includes some basic web pages designs using html and css.
+# Educational website design
+This is my 1st web page design using "HTML and CSS".
