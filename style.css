@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    background: url("./study.jpg");
+    background: url("./background-image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -64,6 +64,7 @@ ul li a{
     font-family: serif;
     font-size: 20px;
 }
+
 
 li a::after{
     content: "";
